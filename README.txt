@@ -1,11 +1,6 @@
 Contact Info
 ============
-
-Group Members & Email Addresses:
-
-    Alex Johnston, amjo343@uky.edu
-    Colum O'Connor, cpoc225@uky.edu
-    Jacob Marquez, jama@uky.edu
+Alex Johnston, amjohnston9@gmail.com
 
 
 General Info
