@@ -1,15 +1,14 @@
 #Contact Info
-============
+
 Alex Johnston, amjohnston9@gmail.com
 
 
 #General Info
-============
+
 This file describes how to run pongServer.py & pongClient.py to create a pong 
 multiplayer game with a client-server architecture. 
 
 #Install Instructions
-====================
 
 Run the following line to install the required libraries for this project:
 
